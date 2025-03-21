@@ -87,7 +87,7 @@ Once you've created the initial admin account:
 - Online payment system integration
 - Barcode scanning capabilities for physical stores
 
-## Creator
+## Creator 
 This project was created by Veerendra Vishwakarma (The Codex).
 
 ## Contributors
